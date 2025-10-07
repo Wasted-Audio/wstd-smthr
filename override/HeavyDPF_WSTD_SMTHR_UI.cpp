@@ -153,6 +153,7 @@ protected:
                 }
                 setParameterValue(2, fsmthr);
             }
+            ImGui::PopStyleColor(2);
             ImGui::SameLine();
 
             ImGui::BeginGroup();
