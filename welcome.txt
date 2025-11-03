@@ -1,0 +1,9 @@
+@name@
+
+This is our soft-clipping overdrive plugin. It is very easy to use, with some basic controls.
+
+It includes an automated limiter, that will try to keep things within the RMS level of your input signal.
+
+Be careful with it as the output can potentially be very hot!
+
+Like all our other software this plugin is without DRM and Opensource.
